@@ -4,4 +4,4 @@ The objective of this project is to help NGOs identify countries where humanitar
 
 Check out my project in this [python jupiter notebook](https://github.com/noursan/clustering_countries/blob/main/countries_pca_clustering.ipynb).
 
-![world_map](https://github.com/noursan/clustering_countries/world_map_2.jpeg)
+![world_map](https://github.com/noursan/clustering_countries/blob/main/world_map_2.jpeg)
